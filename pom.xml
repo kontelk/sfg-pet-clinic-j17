@@ -7,12 +7,14 @@
         <version>3.1.2</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.kt</groupId>
     <artifactId>sfg-pet-clinic-j17</artifactId>
-    <version>0.0.1</version>
-    <packaging>pom</packaging>
     <name>sfg-pet-clinic-j17</name>
     <description>sfg-pet-clinic-j17</description>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
     <modules>
         <module>pet-clinic-j17-data</module>
         <module>pet-clinic-j17-web</module>
@@ -45,7 +47,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/kontelk/sfg-pet-clinic-j17.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:kontelk/sfg-pet-clinic-j17.git</developerConnection>
         <tag>sfg-pet-clinic-j17-0.0.1</tag>
     </scm>
 
