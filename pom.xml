@@ -45,7 +45,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:kontelk/sfg-pet-clinic-j17.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/kontelk/sfg-pet-clinic-j17.git</developerConnection>
         <tag>sfg-pet-clinic-j17-0.0.1</tag>
     </scm>
 
