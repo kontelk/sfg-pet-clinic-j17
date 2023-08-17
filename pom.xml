@@ -12,7 +12,7 @@
     <artifactId>sfg-pet-clinic-j17</artifactId>
     <name>sfg-pet-clinic-j17</name>
     <description>sfg-pet-clinic-j17</description>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -48,7 +48,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:kontelk/sfg-pet-clinic-j17.git</developerConnection>
-        <tag>sfg-pet-clinic-j17-0.0.3</tag>
+        <tag>sfg-pet-clinic-j17-0.0.1</tag>
     </scm>
 
 </project>
