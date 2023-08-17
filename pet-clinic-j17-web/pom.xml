@@ -3,19 +3,19 @@
     <parent>
         <groupId>com.kt</groupId>
         <artifactId>sfg-pet-clinic-j17</artifactId>
-        <version>0.0.5</version>
+        <version>0.0.6-SNAPSHOT</version>
     </parent>
 
     <groupId>com.kt</groupId>
     <artifactId>pet-clinic-j17-web</artifactId>
-    <version>0.0.5</version>
+    <version>0.0.6-SNAPSHOT</version>
 
     <dependencies>
 
         <dependency>
             <groupId>com.kt</groupId>
             <artifactId>pet-clinic-j17-data</artifactId>
-            <version>0.0.5</version>
+            <version>0.0.6-SNAPSHOT</version>
         </dependency>
 
         <dependency>
