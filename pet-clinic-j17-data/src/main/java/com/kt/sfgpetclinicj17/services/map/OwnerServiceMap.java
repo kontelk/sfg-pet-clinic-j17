@@ -2,12 +2,14 @@ package com.kt.sfgpetclinicj17.services.map;
 
 import com.kt.sfgpetclinicj17.model.Owner;
 import com.kt.sfgpetclinicj17.services.OwnerService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
 /**
  * Created by kontelk on 8/18/23.
  */
+@Service
 public class OwnerServiceMap
         extends AbstractMapService<Owner, Long>
         implements OwnerService {
