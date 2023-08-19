@@ -5,6 +5,7 @@ import com.kt.sfgpetclinicj17.model.Pet;
 /**
  * Created by kontelk on 8/17/23.
  */
-public interface PetService extends CrudService<Pet, Long> {
+public interface PetService
+        extends CrudService<Pet, Long> {
 
 }
