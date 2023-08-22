@@ -13,4 +13,14 @@ public class IndexController {
     public String index() {
         return "index";
     }
+
+    @RequestMapping({"help"})
+    public String help() {
+        return "help";
+    }
+
+    @RequestMapping({"support"})
+    public String support() {
+        return "support";
+    }
 }
