@@ -2,12 +2,14 @@ package com.kt.sfgpetclinicj17.services.map;
 
 import com.kt.sfgpetclinicj17.model.PetType;
 import com.kt.sfgpetclinicj17.services.PetTypeService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
 /**
  * Created by kontelk on 8/23/23.
  */
+@Service
 public class PetTypeMapService extends AbstractMapService<PetType, Long>
         implements PetTypeService {
 
